@@ -1,0 +1,33 @@
+<?php
+
+return [
+'title_page' => 'Employees',
+    'search_here' => 'Search Here',
+    'seacrh_by_date_or_time_as_that_pattern' => 'Search By Date Or By Time At This Pattern ',
+    'user_name' => 'Employee Name',
+    'status' => 'Status',
+    'images' => 'Images',
+    'title' => 'Title',
+    'email' => 'Email',
+    'phone_number' => 'Mobile Number',
+    'address' => 'Address',
+    'summary' => 'Summary',
+    'resume' => 'Resume or (CV)',
+    'user_id' => 'Action Is Taken By ',
+    'created_at' => 'Created At',
+    'updated_at' => 'Updated At',
+    'Processes' => 'Processes',
+    'unseen' => 'Unseen',
+    'accepted' => 'Accepted',
+    'postponed' => 'Postponed',
+    'rejected' => 'Rejected',
+    'Edit' => 'Edit',
+    'Delete' => 'Delete',
+    'edit' => 'Edit',
+    'Close' => 'Close',
+    'submit' => 'Submit',
+    'delete' => 'Delete',
+    'warning' => 'Are You Sure You Want To Delete This Employee Permanently ?',
+    'close' => 'Close',
+
+];

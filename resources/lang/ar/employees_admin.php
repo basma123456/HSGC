@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'title_page' => 'طلبات الوظائف',
+    'search_here' => 'ابحث هنا',
+    'seacrh_by_date_or_time_as_that_pattern' => 'ابحث بالتاريخ او بالوقت لكن بنفس هذا النمط ',
+    'user_name' => 'اسم طالب الوظيفة',
+    'status' => 'الحالة',
+    'images' => 'الصور',
+    'title' => 'العنوان',
+    'email' => 'الايميل',
+    'phone_number' => 'موبايل',
+    'address' => 'العنوان',
+    'summary' => 'ملخص',
+    'resume' => 'السيرة الذاتية',
+    'user_id' => ' اتخذ اجراء معه بواسطة  ',
+    'created_at' => 'تم انشائه',
+    'updated_at' => 'تم تعديله',
+    'Processes' => 'العمليات',
+    'unseen' => 'لم يتخذ اجراء معهم',
+    'accepted' => 'مقبولين',
+    'postponed' => 'مؤجلين',
+    'rejected' => 'غير مقبولين',
+    'Edit' => 'تعديل',
+    'Delete' => 'الغاء',
+    'edit' => 'تعديل',
+    'Close' => 'الغاء',
+    'submit' => 'ارسال',
+    'delete' => 'الغاء',
+    'warning' => 'هل انت متاكد من الغاء هذ نهائيا ؟',
+    'close' => 'اغلاق',
+
+];
